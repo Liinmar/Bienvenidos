@@ -1,0 +1,14 @@
+---
+title: "Hi World"
+author: "Linmar Piña"
+date: "18 de abril de 2016"
+output: html_document
+---
+Hola, mi nombre es *Linmar Piña*, estudio  maestría en Física en el Instituto Venezolano de Investigaciones Científicas, los temas de estudios a los que me he acercado han sido:
+
+  - Redes
+  - Sistemas Dinámicos
+  
+y ahora Machine Learning. Tengo grandes espectativas respecto al curso. 
+
+PD. Esta es mi primera experiencia con R Markdown.
